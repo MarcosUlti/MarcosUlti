@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosulti&label=Profile%20views&color=0e75b6&style=flat" alt="marcosulti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosulti" alt="marcosulti" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 | Mais sobre mim: **A grande verdade, é que este perfil é da corporação da minha escola, fiz esse perfil para um curso do alura onde eles ensinavam a criar contas, ja possuo uma conta no github mas me recuso a compartilha-la para o governo, tenha um ótimo dia!**
+- 💬 | Mais sobre mim: **Um caba aí que programa as vezes (quando dá tempo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
